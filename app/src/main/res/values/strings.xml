@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="et_nombres">Nombre</string>
+    <string name="et_datos">Datos</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="todo">TODO</string>
+</resources>
